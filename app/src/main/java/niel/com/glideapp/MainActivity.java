@@ -44,6 +44,15 @@ public class MainActivity extends AppCompatActivity {
     private void loadImage(String url) {
         Glide.with(this)
             .load(url)
+
+            /*
+
+            Use this to set the expiry time of 1 day
+            
+            .signature(new StringSignature(
+                System.currentTimeMillis() / (24 * 60 * 60 * 1000)))
+            */
+
             .signature(new StringSignature(String.valueOf(lastModified)))
             .diskCacheStrategy(DiskCacheStrategy.SOURCE)
             .error(R.color.chart_grey)
