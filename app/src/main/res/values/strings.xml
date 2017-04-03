@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">GlideApp</string>
+  <string name="app_name">GlideApp</string>
+  <string name="img_url_default">https://s3-us-west-2.amazonaws.com/elasticbeanstalk-us-west-2-492482793628/Upload/Resources/Appliances/GoPro_Hero5.jpg</string>
 </resources>
