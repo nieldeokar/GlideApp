@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
             /*
 
             Use this to set the expiry time of 1 day
-            
+
             .signature(new StringSignature(
                 System.currentTimeMillis() / (24 * 60 * 60 * 1000)))
             */
