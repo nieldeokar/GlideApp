@@ -144,4 +144,14 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this,"Tag is : " + view.getTag(R.id.imageView),Toast.LENGTH_SHORT).show();
     }
 
+
+
+   /* User RequestManager Object in Recyclerview
+    Download Bitmaps using 
+    ref :http://stackoverflow.com/a/27394484/3746306
+    User Listner for error logging
+    https://github.com/bumptech/glide/wiki/Debugging-and-Error-Handling#requestlistener
+    Progress bar while loading imageView
+    http://stackoverflow.com/a/35306315/3746306*/
+
 }

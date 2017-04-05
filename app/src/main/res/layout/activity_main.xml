@@ -10,6 +10,8 @@
     >
 
 
+    <!--i have kept backgroud color darker_gray just to differentiate image white bg and activity bg-->
+
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="263dp"
