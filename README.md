@@ -19,5 +19,8 @@ Glide uses LRU cache so we can not invalidate cache of particalur imageView but 
 
 
 
+<a href="url"><img src="https://github.com/nieldeokar/GlideApp/blob/master/app/preview/home_activity.png" align="left" height="800" width="500" ></a>
+
+
 [1]: https://medium.com/@nieldeokar/using-glide-save-some-time-here-60f41e29d30a
 [2]: https://github.com/bumptech/glide
