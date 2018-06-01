@@ -1,20 +1,20 @@
-package niel.com.glideapp;
+package com.nileshdeokar.glideapp;
 
 import android.Manifest;
 import android.content.Context;
-import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
+import android.os.Bundle;
 import android.os.Environment;
 import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
+
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.bumptech.glide.load.resource.drawable.GlideDrawable;
@@ -31,9 +31,7 @@ import java.io.IOException;
 import java.util.Calendar;
 import java.util.Random;
 
-import javax.microedition.khronos.opengles.GL;
 
-import static java.security.AccessController.getContext;
 
 public class MainActivity extends AppCompatActivity {
 
