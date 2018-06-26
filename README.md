@@ -2,6 +2,13 @@
 Shot descriptive app on best practices and knows issues which i have faced during my development with [Glide][2]. read more [here][1].
 
 
+<p align="center">
+<a href="https://mindorks.com/newsletter/edition/3">
+      <img src="https://img.shields.io/badge/Mindorks%20Newsletter%20-%233-68efad.svg"/>
+</a>
+</p>
+
+
 ### Grey/Green bg on images loaded via cache  
 I have observed grey/green background on white images loaded via glide cache. 
 
