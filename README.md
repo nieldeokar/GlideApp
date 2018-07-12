@@ -1,5 +1,5 @@
 # GlideApp
-Shot descriptive app on best practices and knows issues which i have faced during my development with [Glide][2]. read more [here][1].
+Short descriptive app on best practices and knows issues which i have faced during my development with [Glide][2]. read more [here][1].
 
 
 <p align="center">
